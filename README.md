@@ -2,6 +2,6 @@
 
 I'm Adam 👋
 
-- 🔭 I’m currently working on becoming a software developer
-- 🌱 I’m currently learning JavaScript, TypeScript, HTML, CSS, ReactJS
+
+- 🌱 I'm working with: JavaScript, TypeScript, HTML, CSS, ReactJS, Angular,React Native, Node.js, MySQL, 
 - 📫 How to reach me: +48 666 209 603
